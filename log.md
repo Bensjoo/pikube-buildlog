@@ -1,5 +1,5 @@
 # Hobby projects involving a cluster of Raspberry Pi computers
-The purpose of this hobby project is to learn how to learn about several subjects within computing, networking and application development by defining mini-projects and working on these. The base for these mini-projects will be a computer-cluster consisting of raspberry Pi computers.
+The purpose is to learn about several subjects within computing, networking and application development by defining mini-projects and working on these. The base for these mini-projects will be a computer-cluster consisting of raspberry Pi computers.
 
 Some things I want to experiment with are:
 - set up a kubernetes environment

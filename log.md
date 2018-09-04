@@ -27,7 +27,7 @@ Memory  | SanDisk microSD cards, 16GB | 3
 Power | Linocell 10A USB charger station | 1
 Networking | By cable to my main router | 1
 
-![TODO: Image of components:](img)
+![img](https://raw.githubusercontent.com/Bensjoo/pikube-buildlog/master/imgs/photo-1.jpg =500x)
 
 ### First iteration of setting up a kubernetes cluster
 The OS installed to the Pis was Raspbian Stretch Lite, written to the SD-cards using etcher. The SD cards were then configured for headless starts by SSH. At first start, the names of the units were changed according to wether they are workers or the master. I use the Pi which was bought some time ago as the master. It has some customizations to usernames and folder structure, from old use. **could cause some problems, will probably reinstall**
